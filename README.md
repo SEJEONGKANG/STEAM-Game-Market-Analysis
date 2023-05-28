@@ -1,5 +1,7 @@
 # STEAM Game Market Analysis
 
+<p align="center"><img src = "./images/steam.png"></p>
+
 The STEAM Game Market Analysis Project used a large amount of user data and review data provided by STEAM to analyze the game market and establish new standards.  Through this project, our aim was to analyze the game market by supplementing (1) the absence of existing research and (2) the recommendation system which considered only the users' playtime. We were able to develop a personalized recommendation system by clusters which were formed based on the users' evaluation of each game they played.
 
 ## Team
@@ -38,7 +40,7 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 - Created a dashboard for the game market using Tableau
 - [**View Dashboard 🎮**](https://public.tableau.com/app/profile/eunsuh.kim/viz/SteamGameMarketAnalysis/SteamDashboard0)
 
-<p align="center"><img src = "./images/main.png"></p>
+<p align="center"><img src = "./images/screen.png"></p>
 
 ## About Data
 
