@@ -6,13 +6,13 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 
 ## Team
 
-| Name   | Github                         |
-| ------ | ------------------------------ |
-| 강세정 | https://github.com/SEJEONGKANG |
-| 김소정 | https://github.com/ssokeem     |
-| 김은서 | https://github.com/eunsuh-kim  |
-| 박유찬 | https://github.com/chanchanuu  |
-| 장동현 | https://github.com/rroyc20     |
+| Name   | Github                         | Email  |
+| ------ | ------------------------------ | --------- |
+| 강세정 | https://github.com/SEJEONGKANG | sjkang6870@yonsei.ac.kr |
+| 김소정 | https://github.com/ssokeem     | kimsojeong@yonsei.ac.kr |
+| 김은서 | https://github.com/eunsuh-kim  | eunsuhkim1@gmail.com |
+| 박유찬 | https://github.com/chanchanuu  | ucp6237@gmail.com |
+| 장동현 | https://github.com/rroyc20     | rroyc20@gmail.com |
 
 ## Procedure
 
