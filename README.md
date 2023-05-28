@@ -36,7 +36,7 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 #### (4) Visualization
 
 - Created a dashboard for the game market using Tableau
-> [**View Dashboard 🎮**](https://public.tableau.com/app/profile/eunsuh.kim/viz/SteamGameMarketAnalysis/SteamDashboard0)
+- [**View Dashboard 🎮**](https://public.tableau.com/app/profile/eunsuh.kim/viz/SteamGameMarketAnalysis/SteamDashboard0)
 
 <p align="center"><img src = "./images/main.png"></p>
 
