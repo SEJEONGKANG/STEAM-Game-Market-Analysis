@@ -42,18 +42,7 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 
 <p align="center"><img src = "./images/screen.png"></p>
 
-## About Data
 
-| Column                         | Description                      |
-| ------------------------------ | -------------------------------- |
-| language                       | 작성 언어                        |
-| review                         | 게임에 대한 리뷰                 |
-| timestamp_created              | 최초 작성 타임스탬프             |
-| timestamp_updated              | 최종 수정 타임스탬프             |
-| voted_up                       | 리뷰의 긍정/부정 유무            |
-| votes_up                       | 추천 수                          |
-| author_steamid                 | 작성자 스팀 아이디               |
-| author_num_games_owned         | 작성자 보유 게임 개수            |
-| author_num_reviews             | 작성자가 작성한 리뷰 수          |
-| author_playtime_forever        | 작성자 플레이 타임               |
-| author_playtime_last_two_weeks | 작성자 최근 2주 동안 플레이 타임 |
+## More Information
+
+> [**Notion**](https://www.notion.so/eunsuh-kim/Steam-43028b0589a04d9e83647d6404377fc5?pvs=4)
