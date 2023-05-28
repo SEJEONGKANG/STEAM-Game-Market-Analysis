@@ -40,7 +40,7 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 
 <p align="center"><img src = "./images/main.png"></p>
 
-## Data
+## About Data
 
 | Column                         | Description                      |
 | ------------------------------ | -------------------------------- |
