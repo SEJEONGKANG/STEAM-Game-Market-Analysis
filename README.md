@@ -44,7 +44,6 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 
 | Column                         | Description                      |
 | ------------------------------ | -------------------------------- |
-| recommendationid               | 추천 아이디                      |
 | language                       | 작성 언어                        |
 | review                         | 게임에 대한 리뷰                 |
 | timestamp_created              | 최초 작성 타임스탬프             |
