@@ -22,21 +22,21 @@ The STEAM Game Market Analysis Project used a large amount of user data and revi
 #### (2) Data Preprocessing
 
 - Text preprocessing for review data
-- Emotional analysis modeling for 8 aspect influencing review writing through **[Aspect-Based Sentiment Analysis](https://paperswithcode.com/task/aspect-based-sentiment-analysis/latest)**
+- Emotional analysis modeling for 8 aspect influencing review writing through **[Aspect-Based Sentiment Analysis](https://paperswithcode.com/task/aspect-based-sentiment-analysis/latest)** </br>
   _(Gameplay, Market, Social, Narrative, Graphics, Technical, Value, Audio)_
 - Create a user review chain for each user, taking into account gameplay over time
 
 #### (3) Modeling
 
 - Cluster modeling through **k-means** to provide new criteria using datasets built through emotional analysis
-- 8 clusters formed as a result
+- 8 clusters formed as a result </br>
   _(insignificant 1, technical deficiency, popular octagon, social interaction, insignificant 2, not bad, immersive audio, slight technical deficiency)_
 - Using **[SASRec](https://github.com/pmixer/SASRec.pytorch)** for users' next game recommendations
 
 #### (4) Visualization
 
 - Creating a dashboard for the game market through Tableau
-- [View Dashboard 🎮](https://public.tableau.com/app/profile/eunsuh.kim/viz/SteamGameMarketAnalysis/SteamDashboard0)
+- [**View Dashboard 🎮**](https://public.tableau.com/app/profile/eunsuh.kim/viz/SteamGameMarketAnalysis/SteamDashboard0)
 
 <p align="center"><img src = "./images/main.png"></p>
 
